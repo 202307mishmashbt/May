@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="ywqjT9GetUOcS4GggIy92g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" FilePath="Microsoft.WindowsNotepad_8wekyb3d8bbwe!App" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAIjSURBVDhPhZDbU1JhFMV56cGxf8ixC2WgKIFaahJl2cXKTEyzmmb6C6qHesnXUkOtJtTMC2YRd0UBkSOlKZoGh6vWjI+rfT5Oc7TD2J5ZM9/D91t7ra34dw6YnmVJpv3eeafFFd15GPmNg51dKO13497CFr2f44TZifZACoX0VvbY0eLjYbRyOyImTbN7Aw+4bdwPb+FuKIs78xm0B9No8yfROpfArVkeN2fiuDEdQ701AhGTpsm5Tluz6CSwg8DbtNX0F/TlwOven2jybKB2nJMbXHFEGUg999UlWnR6NCw3aLStsLj6QT90Fj+07+ZIsyh/64PmzQxKSeqBaVywR1E5EpIbNHz6vqfnNe8mrtJdLrt+sK0X7Wto+LKKc7RINxyUGxinlhiYL/ZuGaaWUTEYkBsYrF/pQJsoE+K+FuJ6oRrwoKTPg+N9bijNLhztdaJ28hs0VE/EpKmbWGRxGx3r1HMN5ymu8fMKzlK1etpaN7mEGlpyaiICFd1FxKSpGeNYz3yxd6tylEMJJRQxaapGFuhAq7m4r3Jxj/Q6cKjbgeJuO4pe2lD0woaT9E/Z75Ub6IfnYaC4Zz4us54s7ngEVWOL0NNWAax4H4KG/h02u+UG1Rbfnp4CKMTVfQhDS2A5gWVDQagtARzrsckNrE9bkclkkE6nkUqlmJLJJBKJBHieZ4rH44jFYhh61Cw36NIWbj9RF+Cx6v+if79ylELxB1PA/LCmbRqJAAAAAElFTkSuQmCC" Selector="&lt;wnd app='notepad.exe' appid='Microsoft.WindowsNotepad_8wekyb3d8bbwe!App' title='名前を付けて保存' /&gt;" Title="名前を付けて保存">
+      <imageRef attrName="InformativeScreenshot" originalValue="fa95fa08c33944be5b98f78ea97443c1.png" xmlns="">0UdcTd4yUpUqrBRecAAKuHw</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

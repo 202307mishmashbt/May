@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="XbjHUegMQkS4VDBJ4SqmPw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="169, 455, 752, 22" DesignTimeScaleFactor="1.25" ElementType="InputBox" FriendlyName="'Edit'" FullSelectorArgument="&lt;wnd aaname='Explorer ウィンドウ' cls='DirectUIHWND' /&gt;&lt;wnd aaname='ファイル名:' cls='ComboBox' /&gt;&lt;wnd ctrlid='1001' /&gt;" FuzzySelectorArgument="&lt;wnd aaname='Explorer ウィンドウ' cls='DirectUIHWND' /&gt;&lt;wnd aaname='ファイル名:' cls='ComboBox' /&gt;&lt;wnd ctrlid='1001' /&gt;" Guid="191c8adc-dd63-4471-b30a-521510f94d78" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAvQAAAAaCAYAAADYDcjNAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACmSURBVHhe7dYxEQAwDAOx8KcaEOlSEn8nLTaEn909AACgaf4CAABBgh4AAMIEPQAAhAl6AAAIE/QAABAm6AEAIEzQAwBAmKAHAIAwQQ8AAGGCHgAAwgQ9AACECXoAAAgT9AAAECboAQAgTNADAECYoAcAgDBBDwAAYYIeAADCBD0AAIQJegAACBP0AAAQJugBACBM0AMAQJigBwCAsNndfwEAgJa7B8DO/kgikDgvAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='notepad.exe' appid='Microsoft.WindowsNotepad_8wekyb3d8bbwe!App' title='名前を付けて保存' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a101e80e8ce26dcbf2f808ca83cb9cb9.png" xmlns="">0uxlpL7LMM0uXtetp1NeBeA</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
